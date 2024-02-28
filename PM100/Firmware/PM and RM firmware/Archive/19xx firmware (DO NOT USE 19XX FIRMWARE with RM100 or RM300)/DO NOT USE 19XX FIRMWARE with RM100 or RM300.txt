@@ -1,0 +1,3 @@
+Do not use 19XX firmware with RM Family (Gen4) products (RM100, RM300).
+The 20XX firmware can be used with eiher RM (Gen4) or PM (Gen2 or Gen3) products.
+

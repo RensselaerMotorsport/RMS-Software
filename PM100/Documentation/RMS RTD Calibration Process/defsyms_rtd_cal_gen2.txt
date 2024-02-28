@@ -1,0 +1,23 @@
+###############################################################################
+# EEPROM Parameters
+###############################################################################
+G2_RTD1_1K_Ohm_Gain_EEPROM_x_10000  , 0x0157, int, dec, 16, 6, spr, spr, spr
+G2_RTD1_1K_Ohm_Offset_EEPROM_x_100  , 0x0158, int, dec, 16, 6, spr, spr, spr
+G2_RTD2_1K_Ohm_Gain_EEPROM_x_10000  , 0x015B, int, dec, 16, 6, spr, spr, spr
+G2_RTD2_1K_Ohm_Offset_EEPROM_x_100  , 0x015C, int, dec, 16, 6, spr, spr, spr
+G2_RTD3_1K_Ohm_Gain_EEPROM_x_10000  , 0x0153, int, dec, 16, 6, spr, spr, spr
+G2_RTD3_1K_Ohm_Offset_EEPROM_x_100  , 0x0154, int, dec, 16, 6, spr, spr, spr
+G2_RTD4_100_Ohm_Gain_EEPROM_x_10000 , 0x0155, int, dec, 16, 6, spr, spr, spr
+G2_RTD4_100_Ohm_Offset_EEPROM_x_100 , 0x0156, int, dec, 16, 6, spr, spr, spr
+G2_RTD5_100_Ohm_Gain_EEPROM_x_10000 , 0x0159, int, dec, 16, 6, spr, spr, spr
+G2_RTD5_100_Ohm_Offset_EEPROM_x_100 , 0x015A, int, dec, 16, 6, spr, spr, spr
+
+###############################################################################
+# Monitored Parameters - RTD Calibration Parameters
+###############################################################################
+RTD1_Temp_(C)_x_10                  , 0x00A8, int, dec, 16, 6, spr, spr, spr
+RTD2_Temp_(C)_x_10                  , 0x00A9, int, dec, 16, 6, spr, spr, spr
+RTD3_Temp_(C)_x_10                  , 0x00AA, int, dec, 16, 6, spr, spr, spr
+RTD4_Temp_(C)_x_10                  , 0x00AB, int, dec, 16, 6, spr, spr, spr
+RTD5_Temp_(C)_x_10                  , 0x00AC, int, dec, 16, 6, spr, spr, spr
+
