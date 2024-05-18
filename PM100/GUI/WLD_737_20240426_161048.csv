@@ -1,0 +1,31 @@
+# 04/26/2024 16:19:58
+# Firmware Date-code: 20231107
+# Firmware Version  : 204f
+# Hardware Version  : 23450
+# Hardware ID       : G3
+# Com Port          : com3
+
+#decimal:
+
+Motor test bench 4-26-24
+
+
+Commanded_Torque_(Nm)_x_10            ,      0  
+VSM_State                             ,      4  
+DIN1_Forward_Switch                   ,      1  
+DIN3_Brake_Switch                     ,      0  
+DIN5_Ignition_Input                   ,      0  
+VSM_Accel_Filtered_(AIN1_Vx100)       ,      5  
+IQ_Command                            ,      0  
+V_DC_Filtered_(Volts)_x_10            ,      2  
+V_MAG_Filtered_(Volts)_x_10           ,      0  
+Mod_A_Temp_(C)_x_10                   ,    209  
+Mod_B_Temp_(C)_x_10                   ,    215  
+Mod_C_Temp_(C)_x_10                   ,    208  
+PCB_Temp_(C)_x_10                     ,    259  
+GDB_1_Temp_(C)_x_10                   ,    221  
+GDB_2_Temp_(C)_x_10                   ,    268  
+GDB_3_Temp_(C)_x_10                   ,    256  
+Ia_corr_(Ampsx10)                     ,     10  
+Ib_corr_(Ampsx10)                     ,    -13  
+Ic_corr_(Ampsx10)                     ,    -12  

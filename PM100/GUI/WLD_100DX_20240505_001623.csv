@@ -1,0 +1,36 @@
+# 05/05/2024 00:16:30
+# Firmware Date-code: 20231107
+# Firmware Version  : 204f
+# Hardware Version  : 23450
+# Hardware ID       : G3
+# Com Port          : com3
+
+#decimal:
+
+5-5-24_TSFB_Test
+
+
+Delta_Resolver_In_Fil_(DEG)_x_10      ,    462  
+Delta_Resolver_In_Fil_at_1000RPM      ,      0  
+DIN1_Forward_Switch                   ,      0  
+DIN3_Brake_Switch                     ,      1  
+VSM_State                             ,      4  
+Feedback_Speed_(RPM)                  ,      0  
+Voltage_Feedback_Speed_(RPM)          ,      0  
+Commanded_Torque_(Nm)_x_10            ,      0  
+Feedback_Torque_(Nm)_x_10             ,      0  
+VSM_Accel_Filtered_(AIN1_Vx100)       ,      5  
+IQ_Command                            ,      0  
+IQ_Feedback                           ,      0  
+IQ_Feedforward                        ,      0  
+VQ_Command                            ,      0  
+VQ_Feedback                           ,      0  
+VQ_Feedforward                        ,      0  
+DIN2_Reverse_Switch                   ,      0  
+DIN5_Ignition_Input                   ,      0  
+DIN6_Start_Input                      ,      0  
+V_DC_Filtered_(Volts)_x_10            ,      3  
+Commanded_Speed_(RPM)                 ,  -3500  
+Modulation_Index                      ,      0  
+Flux_Q_Rotor                          ,      0  
+Flux_Q_Stator                         ,      0  
