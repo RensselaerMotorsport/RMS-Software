@@ -24,10 +24,10 @@
 16. Before the last page, deselect "register RealTerm automation server" and "Show Readme"
 
 ### Install Erich's Dashboard (Optional)
-18. Go to the repository (https://github.com/erichbahm/PM100DX_Dashboard) 
-19. If you are familiar with git: clone the repository
-20. If you haven't used git before, click "Code" and "Download ZIP"
-21. After extracting the zip, you can run the python file (main.py) to view live output graphs 
+17. Go to the repository (https://github.com/erichbahm/PM100DX_Dashboard) 
+18. If you are familiar with git: clone the repository
+19. If you haven't used git before, click "Code" and "Download ZIP"
+20. After extracting the zip, you can run the python file (main.py) to view live output graphs 
 
 If you run into issues launching the RMS GUI app, or C2Prog, download the latest version of Java:
 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
