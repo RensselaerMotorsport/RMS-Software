@@ -28,4 +28,5 @@
 20. If you haven't used git before, click "Code" and "Download ZIP"
 21. After extracting the zip, you can run the python file (main.py) to view live output graphs 
 
+If you run into issues launching the RMS GUI app, or C2Prog, download the latest version of Java:
 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
