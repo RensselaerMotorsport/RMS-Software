@@ -24,7 +24,7 @@
 16. Before the last page, deselect "register RealTerm automation server" and "Show Readme"
 
 ### Install Erich's Dashboard (Optional)
-17. Go to the repository (https://github.com/erichbahm/PM100DX_Dashboard) 
+17. Go to the repository (https://github.com/RensselaerMotorsport/PM100DX_Dashboard) 
 18. If you are familiar with git: clone the repository
 19. If you haven't used git before, click "Code" and "Download ZIP"
 20. After extracting the zip, you can run the python file (main.py) to view live output graphs 
